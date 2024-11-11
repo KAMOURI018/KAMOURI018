@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on algorithmic trading projects
 - 📫 How to reach me email
-- 😄 Pronouns: ...
 - ⚡ Fun fact : we don't want to win, we want to not loose 
 
 <!---
